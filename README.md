@@ -5,8 +5,11 @@ This project is about topic modeling on all past questions asked at Jeopardy! sh
 
 ## Questions we addressed include:
     1)  For each year, what are the topics of questions asked in "Jeopardy", "Double Jeopardy" and "Final Jeopardy" respectively?
+    
     2)  For "Jeopardy", "Double Jeopardy" and "Final Jeopardy", did the topics of questions change over time? Are there any noticeable trend?
+    
     3)  Are the topics of harder questions (more monetary values) inherently different than topics of easier questions (less monetary values)?
+    
     4)  What are the dynamics of the questions? What topics were considered easy/difficult over time? Are there any trends?
     
 ## Note: 
