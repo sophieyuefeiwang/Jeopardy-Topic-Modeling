@@ -11,8 +11,11 @@ This project is about topic modeling on all past questions asked at Jeopardy! sh
     
 ## Note: 
 There are two main approaches for topic modeling:
-    1) Non-negative factorization (NMF)
-    2) Latent Dirichlet Allocation (LDA)
+    
+    1)  Non-negative factorization (NMF)
+
+    2)  Latent Dirichlet Allocation (LDA)
+    
 They are both unsupervised algorithms. NMF is a matrix decomposition method, and the identified topics are disjoint, meaning one document/article can only belong to one topic. LDA is a probabilistic method that identifies the probability of each document belong to each topic. LDA replies on multinomial-Dirichlet Bayesian model and allows for overlapping topics (e.g: Document 1 belongs to environmental topic with 40% probability and belongs to regulation topic with 60% probability) 
 
  
